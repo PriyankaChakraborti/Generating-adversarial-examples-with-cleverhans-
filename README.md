@@ -7,4 +7,5 @@ Defense against adversarial examples
   https://github.com/tensorflow/cleverhans
   The results show highest adversarial training accuracy on MNIST.
   
-    
+ # PPT link
+ https://drive.google.com/file/d/1KR-NU_s2lYjdDHEkPeIhSenY1PfgQJoX/view?usp=sharing
